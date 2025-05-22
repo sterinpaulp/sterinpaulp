@@ -1,5 +1,5 @@
 # 💫 About Me:
-I' m currently working as a Junior software developer
+I'm currently working as a software engineer at Lifology.
 
 
 ## 🌐 Socials:
