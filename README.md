@@ -1,5 +1,5 @@
 # 💫 About Me:
-I' m currently working as Junior web developer in Techfriar
+I' m currently working as a Junior software developer
 
 
 ## 🌐 Socials:
